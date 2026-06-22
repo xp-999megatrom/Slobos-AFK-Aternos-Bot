@@ -9,13 +9,13 @@
     "ip": "Britania2A.aternos.me",
     "port": 36486,
     "version": "26.2",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 215,
+    "y": 64,
+    "z": 112
   },
   "utils": {
     "auto-auth": {
