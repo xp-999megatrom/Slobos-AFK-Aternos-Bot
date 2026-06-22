@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BOT 001 - Server On",
+    "username": "BOT001-ServerOn",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Britania2A.aternos.me",
     "port": 36486,
-    "version": "26.2",
+    "version": "26.1.2",
     "try-creative": true
   },
   "position": {
